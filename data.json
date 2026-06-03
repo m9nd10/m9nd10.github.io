@@ -1,0 +1,641 @@
+{
+  "courses": [
+    {
+      "id": 7,
+      "name": "Triết học Mác – Lênin",
+      "code": "PHI1006"
+    },
+    {
+      "id": 8,
+      "name": "Kinh tế chính trị Mác – Lênin",
+      "code": "PEC1008"
+    },
+    {
+      "id": 9,
+      "name": "Chủ nghĩa xã hội khoa học",
+      "code": "PHI1002"
+    },
+    {
+      "id": 10,
+      "name": "Lịch sử Đảng Cộng sản Việt Nam",
+      "code": "HIS1001"
+    },
+    {
+      "id": 11,
+      "name": "Tư tưởng Hồ Chí Minh",
+      "code": "POL1001"
+    },
+    {
+      "id": 12,
+      "name": "Tin học cơ sở",
+      "code": "INF1001"
+    },
+    {
+      "id": 13,
+      "name": "Nhà nước và pháp luật đại cương",
+      "code": "LAW1001"
+    },
+    {
+      "id": 14,
+      "name": "Kỹ năng bổ trợ",
+      "code": "SKL1001"
+    },
+    {
+      "id": 15,
+      "name": "Giáo dục thể chất",
+      "code": "PHE1001"
+    },
+    {
+      "id": 16,
+      "name": "Giáo dục quốc phòng – an ninh",
+      "code": "DEF1001"
+    },
+    {
+      "id": 17,
+      "name": "Tiếng Anh B1",
+      "code": "FLF1107"
+    },
+    {
+      "id": 18,
+      "name": "Tiếng Anh B2",
+      "code": "FLF1108"
+    },
+    {
+      "id": 19,
+      "name": "Toán 1 (Giải tích)",
+      "code": "VJU2002"
+    },
+    {
+      "id": 20,
+      "name": "Toán 2 (Đại số)",
+      "code": "VJU2030"
+    },
+    {
+      "id": 21,
+      "name": "Vật lý 1",
+      "code": "VJU2005"
+    },
+    {
+      "id": 22,
+      "name": "Hóa học 1",
+      "code": "VJU2007"
+    },
+    {
+      "id": 23,
+      "name": "Vật lý 2",
+      "code": "VJU2006"
+    },
+    {
+      "id": 24,
+      "name": "Mô phỏng toán học",
+      "code": "AET2017"
+    },
+    {
+      "id": 25,
+      "name": "Tiếng Nhật A1",
+      "code": "JPS3001"
+    },
+    {
+      "id": 26,
+      "name": "Phương pháp luận nghiên cứu khoa học",
+      "code": "VJU2001"
+    },
+    {
+      "id": 27,
+      "name": "Giới thiệu về hệ thống pháp luật Việt Nam",
+      "code": "THL2003"
+    },
+    {
+      "id": 28,
+      "name": "Nguyên lý kinh tế",
+      "code": "INE2004"
+    },
+    {
+      "id": 29,
+      "name": "Xã hội học đại cương",
+      "code": "SOC2005"
+    },
+    {
+      "id": 30,
+      "name": "Khoa học quản lý đại cương",
+      "code": "MNS2006"
+    },
+    {
+      "id": 31,
+      "name": "Hóa học 2",
+      "code": "VJU2008"
+    },
+    {
+      "id": 32,
+      "name": "Sinh học 1",
+      "code": "VJU2009"
+    },
+    {
+      "id": 33,
+      "name": "Sinh học 2",
+      "code": "VJU2010"
+    },
+    {
+      "id": 34,
+      "name": "Khoa học Trái đất",
+      "code": "VJU2011"
+    },
+    {
+      "id": 35,
+      "name": "Nhập môn hệ thống máy tính",
+      "code": "AET2015"
+    },
+    {
+      "id": 36,
+      "name": "Khoa học toàn cầu và môi trường",
+      "code": "VJU2012"
+    },
+    {
+      "id": 37,
+      "name": "Sự phát triển và Năng lượng ở Châu Á",
+      "code": "VJU2013"
+    },
+    {
+      "id": 38,
+      "name": "Khoa học cơ bản về biến đổi khí hậu",
+      "code": "VJU2014"
+    },
+    {
+      "id": 39,
+      "name": "Thực phẩm, nước và sức khỏe",
+      "code": "VJU2015"
+    },
+    {
+      "id": 40,
+      "name": "An ninh và phát triển bền vững",
+      "code": "VJU2016"
+    },
+    {
+      "id": 41,
+      "name": "Khoa học, Công nghệ và Xã hội",
+      "code": "VJU2017"
+    },
+    {
+      "id": 42,
+      "name": "Toàn cầu hóa và Khu vực hóa",
+      "code": "VJU2018"
+    },
+    {
+      "id": 43,
+      "name": "Phát triển quốc tế và Khu vực",
+      "code": "VJU2019"
+    },
+    {
+      "id": 44,
+      "name": "Tôn giáo, Văn hóa và Xã hội",
+      "code": "VJU2020"
+    },
+    {
+      "id": 45,
+      "name": "Luật và Xã hội",
+      "code": "VJU2021"
+    },
+    {
+      "id": 46,
+      "name": "Quản trị kinh doanh",
+      "code": "VJU2022"
+    },
+    {
+      "id": 47,
+      "name": "Các vấn đề đương đại ở Đông Á",
+      "code": "VJU2023"
+    },
+    {
+      "id": 48,
+      "name": "Văn hóa và lịch sử Nhật Bản",
+      "code": "VJU2024"
+    },
+    {
+      "id": 49,
+      "name": "Kinh doanh Nhật Bản – Việt Nam",
+      "code": "VJU2025"
+    },
+    {
+      "id": 50,
+      "name": "Hệ thống pháp luật Nhật Bản",
+      "code": "VJU2026"
+    },
+    {
+      "id": 51,
+      "name": "So sánh xã hội Nhật Bản với xã hội Việt Nam",
+      "code": "VJU2027"
+    },
+    {
+      "id": 52,
+      "name": "So sánh Việt Nam và Nhật Bản",
+      "code": "VJU2028"
+    },
+    {
+      "id": 53,
+      "name": "Giới thiệu về giảng dạy tiếng Nhật như một ngoại ngữ",
+      "code": "VJU2029"
+    },
+    {
+      "id": 54,
+      "name": "Khoa học thông tin",
+      "code": "AET2012"
+    },
+    {
+      "id": 55,
+      "name": "Phân tích dữ liệu khoa học",
+      "code": "AET2013"
+    },
+    {
+      "id": 56,
+      "name": "Kinh tế lượng",
+      "code": "INE1052"
+    },
+    {
+      "id": 57,
+      "name": "Thuật toán",
+      "code": "AET2016"
+    },
+    {
+      "id": 58,
+      "name": "Toán rời rạc",
+      "code": "CSE3003"
+    },
+    {
+      "id": 59,
+      "name": "Vật liệu tiên tiến và composite",
+      "code": "AET2018"
+    },
+    {
+      "id": 60,
+      "name": "Thí nghiệm trong khoa học và kỹ thuật",
+      "code": "AET2021"
+    },
+    {
+      "id": 61,
+      "name": "Thí nghiệm trong khoa học và kỹ thuật 2",
+      "code": "AET2022"
+    },
+    {
+      "id": 62,
+      "name": "Vi xử lý",
+      "code": "CSE3069"
+    },
+    {
+      "id": 63,
+      "name": "Xử lý ảnh",
+      "code": "CSE3062"
+    },
+    {
+      "id": 64,
+      "name": "Giao diện người – máy",
+      "code": "CSE3061"
+    },
+    {
+      "id": 65,
+      "name": "Giải tích 2",
+      "code": "CSE3001"
+    },
+    {
+      "id": 66,
+      "name": "Nhập môn kỹ thuật",
+      "code": "MJM3001"
+    },
+    {
+      "id": 67,
+      "name": "Giải tích Tensor ứng dụng trong cơ học vật rắn",
+      "code": "MJM3002"
+    },
+    {
+      "id": 68,
+      "name": "Khoa học và kỹ thuật vật liệu",
+      "code": "MJM3003"
+    },
+    {
+      "id": 69,
+      "name": "Xác suất thống kê",
+      "code": "CSE3004"
+    },
+    {
+      "id": 70,
+      "name": "Nhiệt động lực học",
+      "code": "AET2019"
+    },
+    {
+      "id": 71,
+      "name": "An toàn lao động",
+      "code": "MJM3005"
+    },
+    {
+      "id": 72,
+      "name": "Phương pháp số trong kỹ thuật",
+      "code": "MJM3007"
+    },
+    {
+      "id": 73,
+      "name": "Cơ khí đại cương",
+      "code": "MJM3008"
+    },
+    {
+      "id": 74,
+      "name": "Tiếng Anh chuyên ngành",
+      "code": "CSE3021"
+    },
+    {
+      "id": 75,
+      "name": "Tiếng Nhật chuyên ngành",
+      "code": "CSE3022"
+    },
+    {
+      "id": 76,
+      "name": "Kỹ thuật truyền nhiệt",
+      "code": "AET2020"
+    },
+    {
+      "id": 77,
+      "name": "Thực hành kỹ thuật vật liệu",
+      "code": "MJM3009"
+    },
+    {
+      "id": 78,
+      "name": "Cơ học kỹ thuật",
+      "code": "MJM3012"
+    },
+    {
+      "id": 79,
+      "name": "Sức bền Vật liệu",
+      "code": "MJM3013"
+    },
+    {
+      "id": 80,
+      "name": "Nguyên lý máy",
+      "code": "MJM3014"
+    },
+    {
+      "id": 81,
+      "name": "Vẽ kỹ thuật cơ khí I",
+      "code": "MJM3015"
+    },
+    {
+      "id": 82,
+      "name": "Nhập môn Kỹ thuật Điện tử công nghiệp",
+      "code": "MJM3016"
+    },
+    {
+      "id": 83,
+      "name": "Nhập môn cơ giới hóa tiên tiến",
+      "code": "MJM3017"
+    },
+    {
+      "id": 84,
+      "name": "Nhập môn cơ điện tử",
+      "code": "MJM3018"
+    },
+    {
+      "id": 85,
+      "name": "Cơ sở thiết kế máy",
+      "code": "MJM3019"
+    },
+    {
+      "id": 86,
+      "name": "Tổ chức sản xuất kiểu Nhật",
+      "code": "MJM3020"
+    },
+    {
+      "id": 87,
+      "name": "Nhập môn Điện – Cơ",
+      "code": "MJM3022"
+    },
+    {
+      "id": 88,
+      "name": "Kỹ thuật điều khiển tự động",
+      "code": "MJM3023"
+    },
+    {
+      "id": 89,
+      "name": "Dao động kỹ thuật",
+      "code": "MJM3024"
+    },
+    {
+      "id": 90,
+      "name": "Điện từ trường",
+      "code": "MJM3026"
+    },
+    {
+      "id": 91,
+      "name": "Nhiệt động lực học thống kê",
+      "code": "MJM3027"
+    },
+    {
+      "id": 92,
+      "name": "Cơ học lượng tử",
+      "code": "MJM3028"
+    },
+    {
+      "id": 93,
+      "name": "Cơ học chất lỏng",
+      "code": "MJM3030"
+    },
+    {
+      "id": 94,
+      "name": "Phương pháp phần tử hữu hạn",
+      "code": "MJM3031"
+    },
+    {
+      "id": 95,
+      "name": "Dung sai và kỹ thuật đo lường",
+      "code": "MJM3032"
+    },
+    {
+      "id": 96,
+      "name": "Kỹ thuật tự động hóa",
+      "code": "MJM3033"
+    },
+    {
+      "id": 97,
+      "name": "Vẽ kỹ thuật cơ khí II",
+      "code": "MJM3034"
+    },
+    {
+      "id": 98,
+      "name": "Hệ thống vi cơ – điện",
+      "code": "MJM3035"
+    },
+    {
+      "id": 99,
+      "name": "Chế tạo máy trong công nghiệp Nhật Bản",
+      "code": "MJM3036"
+    },
+    {
+      "id": 100,
+      "name": "Cơ sở máy công cụ",
+      "code": "MJM3038"
+    },
+    {
+      "id": 101,
+      "name": "Cơ cấu và phần tử chính xác",
+      "code": "MJM3039"
+    },
+    {
+      "id": 102,
+      "name": "Công nghệ CNC",
+      "code": "MJM3040"
+    },
+    {
+      "id": 103,
+      "name": "CAD/CAM/CAE",
+      "code": "MJM3041"
+    },
+    {
+      "id": 104,
+      "name": "Cơ sở thiết kế đồ gá",
+      "code": "MJM3042"
+    },
+    {
+      "id": 105,
+      "name": "Thiết kế máy chính xác",
+      "code": "MJM3043"
+    },
+    {
+      "id": 106,
+      "name": "Cơ cấu chấp hành trong cơ điện tử",
+      "code": "MJM3045"
+    },
+    {
+      "id": 107,
+      "name": "Cảm biến và xử lý tín hiệu",
+      "code": "MJM3046"
+    },
+    {
+      "id": 108,
+      "name": "Robot công nghiệp",
+      "code": "MJM3047"
+    },
+    {
+      "id": 109,
+      "name": "PLC và mạng công nghiệp",
+      "code": "MJM3048"
+    },
+    {
+      "id": 110,
+      "name": "Tự động hóa thủy khí",
+      "code": "MJM3049"
+    },
+    {
+      "id": 111,
+      "name": "Đồ án cơ điện tử",
+      "code": "MJM3050"
+    },
+    {
+      "id": 112,
+      "name": "Tính toán trong kỹ thuật vật liệu",
+      "code": "MJM3052"
+    },
+    {
+      "id": 113,
+      "name": "Vật liệu năng lượng và môi trường",
+      "code": "MJM3053"
+    },
+    {
+      "id": 114,
+      "name": "Vật lý chất rắn",
+      "code": "MJM3054"
+    },
+    {
+      "id": 115,
+      "name": "Các phương pháp chế tạo vật liệu",
+      "code": "MJM3055"
+    },
+    {
+      "id": 116,
+      "name": "Các phương pháp phân tích vật liệu",
+      "code": "MJM3056"
+    },
+    {
+      "id": 117,
+      "name": "Vật liệu điện từ và linh kiện",
+      "code": "MJM3057"
+    },
+    {
+      "id": 118,
+      "name": "Thực tập nghề nghiệp",
+      "code": "MJM4001"
+    },
+    {
+      "id": 119,
+      "name": "Thực hành hướng nghiệp",
+      "code": "MJM4002"
+    },
+    {
+      "id": 120,
+      "name": "Thực tập nghề nghiệp 2",
+      "code": "MJM4003"
+    },
+    {
+      "id": 121,
+      "name": "Đồ án tốt nghiệp",
+      "code": "MJM4050"
+    }
+  ],
+  "lecturers": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn An",
+      "department": "Khoa CNTT"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị Bình",
+      "department": "Khoa CNTT"
+    },
+    {
+      "id": 3,
+      "name": "Lê Văn Cường",
+      "department": "Khoa ATTT"
+    },
+    {
+      "id": 4,
+      "name": "Hoàng Văn Em",
+      "department": "Khoa KHMT"
+    },
+    {
+      "id": 5,
+      "name": "Phạm Đức Thọ",
+      "department": "Khoa FATE"
+    }
+  ],
+  "courseLecturers": {},
+  "ratings": [
+    {
+      "id": 1,
+      "type": "course",
+      "targetId": 6,
+      "targetName": "Thuật Toán",
+      "score": 5,
+      "comment": "Kiến thức đầy đủ, dễ hiểu",
+      "student": "Phạm Thuần Minh Đức",
+      "date": "2026-05-20"
+    },
+    {
+      "id": 2,
+      "type": "course",
+      "targetId": 87,
+      "targetName": "Nhập môn Điện – Cơ",
+      "score": 5,
+      "comment": "dễ hiểu, rcm",
+      "student": "Phạm Thuần Minh Đức",
+      "date": "2026-05-20"
+    },
+    {
+      "id": 3,
+      "type": "course",
+      "targetId": 81,
+      "targetName": "Vẽ kỹ thuật cơ khí I",
+      "score": 5,
+      "comment": "Dễ hiểu, tài liệu đầy đủ",
+      "student": "Định Công Thịnh",
+      "date": "2026-06-02"
+    }
+  ],
+  "nextCourseId": 122,
+  "nextLecturerId": 6
+}
